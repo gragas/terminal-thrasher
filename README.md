@@ -14,5 +14,3 @@ Do whatever the fuck you want with this code!
 # Authors
 
 Thomas Fischer
-
-Help everyone thrash harder and contribute to this repository!
