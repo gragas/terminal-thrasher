@@ -8,6 +8,10 @@ If you have Go, you can download and install Terminal Thrasher with one command:
 
 If you don't have Go, that sucks. You should really get it. If you don't want to, you can look in the Binaries section for a binary that can run on your platform.
 
+# Running Terminal Thrasher
+
+Run the command `thrash` in any terminal. I sure hope it works.
+
 # Binaries
 
 There aren't any binaries yet. Just get Go already!
