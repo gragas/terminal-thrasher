@@ -1,22 +1,22 @@
 # Terminal Thrasher
 A commandline interface for skateboarding. _Skate or die!_
 
-# Installing Terminal Thrasher
+### Installing Terminal Thrasher
 If you have Go, you can download and install Terminal Thrasher with one command:
 
 `go get github.com/gragas/terminal-thrasher`
 
 If you don't have Go, that sucks. You should really get it. If you don't want to, you can look in the Binaries section for a binary that can run on your platform.
 
-# Running Terminal Thrasher
+### Running Terminal Thrasher
 
 Run the command `thrash` in any terminal. I sure hope it works.
 
-# Binaries
+### Binaries
 
 There aren't any binaries yet. Just get Go already!
 
-## Dependences
+### Dependences
 
 * [termbox-go](https://github.com/nsf/termbox-go)
 
